@@ -9,3 +9,4 @@ const eight = 8
 let nine = 9
 nine = 'nine'
 let ten = 10
+let eleven = 11
