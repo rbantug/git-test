@@ -6,3 +6,4 @@ const five = 5
 const six = 6
 const seven = 7
 const eight = 8
+const nine = 9
