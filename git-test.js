@@ -12,3 +12,4 @@ let ten = 10
 let eleven = 11
 const twelve = 12
 const thirteen = 13
+const fourteen = 14
