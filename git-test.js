@@ -22,3 +22,6 @@ const twenty = 20
 const twentyone = 21
 const twentytwo = 22
 const twentythree = 23
+const twentyfour = 24
+const twentyfive = 25
+const twentysix = 26
